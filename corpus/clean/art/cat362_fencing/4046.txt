@@ -1,0 +1,7 @@
+-=[ Fencing ]=-  4/97 (by jgs) :
+In fencing competition there are three weapons...
+1) foil- weighs less than 500g; target area is torso
+ _       |\
+[_[[[[[[[| |========================================D
+         |/
+|__20cm____|________________90cm____________________|

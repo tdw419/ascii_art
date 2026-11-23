@@ -1,0 +1,19 @@
+From: Lennert Stock
+
+Here are some of my (very old) 3d sigs (drawn, not generated).
+How to view: either cross your eyes, or get very close to the screen,
+so that each eye is focusing on a different image. Try to merge the
+separate images into one, and you should get a 3-D effect.
+The last one ('sunburst') has 8 layers!
+
+       _        _        _        _        _        _        _
+   O=='     O=='_    O=='__   O==' __  O=='  __ O=='   __O=='
+   H/\"\    H /\ \   H  /\ \  H   /\ \ H    /\ \H     /\ H
+   H::\ \   H/::\ \  H /::\ \ H  /::\ \H   /::\ H    /::\H\
+  /HLS:\_\  H:LS:\_\ H/:LS:\_\H /:LS:\_H  /:LS:\H\  /:LS:H_\
+  \H:::/ /  H::::/ / H\::::/ /H \::::/ H  \::::/H/  \::::H /
+   H::/ /   H\::/ /  H \::/ / H  \::/ /H   \::/ H    \::/H/
+   H\/_/    H \/_/   H  \/_/  H   \/_/ H    \/_/H     \/_H
+ 3DH        H3D      H   3D   H      3DH        H3D      H   3D
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+                 Lennert Stock - ls@gate99.nl

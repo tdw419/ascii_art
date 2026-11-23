@@ -1,0 +1,47 @@
+                                 XXXXXX
+                          XXXXXXXXX   XXXXXXXXXXXXX
+              X XXXXX XXXXX   XXXX    ...XX... XX XX
+             XXXssssssssssssssssss''''  '''''':XXXXXXX
+           .XXsssssssssss  '''''sss             '.sssXXX
+         XXXsssss         .........XXXXXXXXXX     '.. sXX
+        sssss    XXX<<''''''''      ....;;;;XXXX   ..:...XX
+    XXXXX'   .XX<X""""""..            ...;;;;;sXXX  ':,...XXX:
+sXXXss     XX<<<<""""+;..               ...;;;;ssXXs  !!!.. XX
+sXs'...  XXX<"""""<";;;..                 ..;;;lssXXX `!!.:. XX
+ss:.:::' X<<<"""";;;;;;..                  .;;;;;sssXX'`!!.:.sX
+s.!.:'' XX<""""+";;;;;..                   ....;;ssssX '`!!..sX
+:!!!'.  X<<"""""";;....                    .. ..;;;ssXX:`!!!:.X
+.!!!.:. X<<"""";;;.. ..                      xxxxxxxxxX':`!!..XX
+';!!.:' <<<"""; ;;.. ..                    xxxxxxxxxxX:X':`!!.'XX
+s``!'' X<<<""";;;;..  .                    xxx'''''    X ';!!.  sXXX
+s,.:'  X<<<""";;;  ..xxxxxxxxxx           ss'  .xxxxxxxX.::!!!....sXXX
+,!!!.  X<<<""";;;.xxxxxxxx::.s                xx.M..xx''XX.`!!.,!!..sXX
+!!!!   X<<< "";.xxxxx                 :     .xx..xxxx xxsXX:!!!`!!!!.sXX.
+!!!!:. X< <"""xxxxx    .xxxxx.        -.       '''   ;xxxxXX`!!!`!!.!.sX
+:!!!'  X<<";".ss'    xxxxm:''x'        :|         ;;;;;xxxsXX'!!`!!!.!.s
+`!!!   X<<;; '    xxxx `Yxxxxx          |          ..;;;sxxsX  `'`!!!!!.s
+ `''   XX  ;    .xx''xxxxxx''           'b.         ..;;ssx:X....s`!!..!.
+   :   XXX;<""   ;                        |.        ..;;;sxxX``!!.`!!!..!
+.,..:. '<X<<""".;;                        `b.       . ;;;ssxX '`!!.`!!.::
+;!!..'s :X<<<""..                           \:       .;;;.sxXX::`!!`!!!':
+ !!!. 's:X< <""....                          \:      ..;;.xsXX::,..!`!'!'
+.`!!!. ssX<<<<"."... .                       :\:.      ;;;xsXs::!!!!: s!!
+: `!!!. sXX<<<<.........               sss     'sss    ;;;ssXs::!!!!: s!!
+' ,!!!':s XX<<<"<""....;.            :ssss    .:'ss     ;;x Xs':!!!': s!!
+.,!!!'sss  XX<<<"""" .......         :sss  ::..  ss     .;;dXs .!!!.:ss!!
+!!!''ss .   XX<<"""""""".......       'ss  '             <;:XX::!!!.:s `!
+`'': s ,!!. :XXX"""<" """" .. .                           ;xXX::!!! s   `
+'::'s  ,!!; '.<XX"""""""  "; ...                       ..';;XXX:!!! s'.
+  : s  ,!!;  SS.<XX<"<"""";......                .'':::'-:;;sXX:!!!.sssss
+  :s ..!!!ss SSSSSSss""""....... .         .:;':::::../: ;;;XX::`!!....,!
+. :,.!!,....sSSSSSSSsss"..";;.....      _,-'::'::'::;/  ;;;;X :::`!!...:`
+:',!!!,!!!!'s SSSSSSSSss<"<<;;.....<<<,,,:::..:-----   ;;s;Xs ::::`!!!!!.
+' ;!!,!!'' ss.SSSSSSSSSXX"""; ;..    :<<<i;----       ;;;;XX S '::: '''!!
+. ;!;!!'   ss :SSSSSSSSsXXX;;;;;                     ;;;;;XsSS  ''  s :::
+ss`!`!!!     ssSSSSSSSSSassXXXXX;                  ;;XXXXXsSSS    ''s  ''
+..:`!`!!.... :sSSSSSSSSaaaixxxxXXXXXxxx;;;XXX;X;  X;sXXsXSSSSSSSS   s':
+!!! ```!!!!!.:SSSSSSSSSaaaii;;;    xxXXXXXXXXsXXXXXXXXXXSSSSSSssS   s  ''
+'''     '''' :SSSSSS SSaaai;;;;         sssXXXXXXXXXXs SSSSsSSSSS  ss
+'''          s         XXXX                         SSSSsXXXXXXXXXXXXXX
+             sXXXXXXXXX
+                                       ss 

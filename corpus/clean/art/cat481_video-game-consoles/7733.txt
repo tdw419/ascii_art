@@ -1,0 +1,39 @@
+    ______________
+;*                 *;
+I        ___        I
+I (')   I ^ I       I
+I       I " I       I
+I       I___I       I
+I                   I
+I [ <= ]     [ => ] I
+I        ___        I
+I       I   I       I
+I       I " I       I
+I       I_v_I       I
+I                   I
+I                   I
+I       .'''.       I
+I      :  A  :      I
+I       *...*       I
+I                   I
+I                   I
+I  ( )   ( )   ( )  I
+I                   I
+I     . . . . .     I
+I     . . . . .     I
+I     . . . . .     I
+I     . . . . .     I
+I     . . . . .     I
+I                   I
+I                   I
+I        . .        I
+I       :   :       I
+I        ' '        I
+I                   I
+I        . .        I
+I       :   :       I
+I        ' '        I
+I                   I    [wiiMote]
+I   o   o   o   o   I      [j13]
+;                   ;
+ *  _____________  *

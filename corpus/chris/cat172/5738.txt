@@ -1,0 +1,15 @@
+       .o.o.       .o.o.
+     .qb.o.dp     qb.o.dp.
+  .dop       qb dp       qob.
+ .qb          'o'          dp.
+.dp                         qb.
+.qb                         dp.
+.dp                         qb.
+ .qb                       dp.
+  .dp                     qb.
+   .qb                   dp.
+     .dp               qb.
+       .qb           dp.
+         .dp       qb.
+           .qb   dp.
+              'o'      ldb

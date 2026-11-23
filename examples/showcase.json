@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "endpoint_ms": 1200,
+      "name": "cat_to_dog",
+      "source_a": "art/cat32_cats/330.txt",
+      "source_b": "art/cat35_dogs/395.txt",
+      "steps": 8,
+      "transition_ms": 120
+    },
+    {
+      "endpoint_ms": 1200,
+      "name": "sun_to_moon",
+      "source_a": "art/cat666_celestial-bodies/7119.txt",
+      "source_b": "art/cat666_celestial-bodies/6997.txt",
+      "steps": 8,
+      "transition_ms": 120
+    },
+    {
+      "endpoint_ms": 1200,
+      "name": "heart_to_skull",
+      "source_a": "art/cat172_valentine/1974.txt",
+      "source_b": "art/cat167_halloween/4625.txt",
+      "steps": 8,
+      "transition_ms": 120
+    },
+    {
+      "endpoint_ms": 1200,
+      "name": "rocket_to_ufo",
+      "source_a": "art/cat388_spaceships/4445.txt",
+      "source_b": "art/cat141_extraterrestrials/5486.txt",
+      "steps": 8,
+      "transition_ms": 120
+    },
+    {
+      "endpoint_ms": 1200,
+      "name": "fish_to_bird",
+      "source_a": "art/cat38_fish/5288.txt",
+      "source_b": "art/cat126_warner-bros/1228.txt",
+      "steps": 8,
+      "transition_ms": 120
+    },
+    {
+      "endpoint_ms": 1200,
+      "name": "rocket_to_alien",
+      "source_a": "art/cat388_spaceships/5035.txt",
+      "source_b": "art/cat579_reddit/6056.txt",
+      "steps": 8,
+      "transition_ms": 120
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,38 @@
+                                 ,
+                                .a,
+                               .a@a,
+     ,      ,       ,     ,    a@@@a   ,       ,       ,     ,
+    .a.    .a.     .a    .a.   a@@a'   a.     .a,     .a    .a.
+   .a@a,  .a@a.  .a@a.  .a@a.  `aa'   .a@a.  .a@a,  .a@a,  .a@a,
+   a@@@a  a@@@a  a@@@a  a@@@a   ||    a@@@a  a@@@a  a@@@a  a@@@a
+   a@@a'  a@@a'  a@@a'  a@@a'  vmmv   a@@a'  a@@a'  a@@a'  a@@a'
+   `aa'   `aa'   `aa'   `aa'   vmmv   `aa'   `aa'   `aa'   `aa'
+    ||     ||     ||     ||    vmmv    ||     ||     ||     ||
+   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv  _vmmv_  vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv  (____)  vmmv   vmmv   vmmv   vmmv
+   vmmv   vmmv   vmmv   vmmv   ;%%;   vmmv   vmmv   vmmv   vmmv
+  _vmmv_ _vmmv_ _vmmv_ _vmmv_  ;%%;  _vmmv_ _vmmv_ _vmmv_ _vmmv_
+  (____) (____) (____) (____)  ;%%;  (____) (____) (____) (____)
+   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;
+   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;   ;%%;
+   ;%%;.  ;%%;.  ;%%;.  ;%%;.  ;%%;  .;%%;  .;%%;  .;%%;   ;%%;
+   `;%%;. `;%%;. `;%%;. `;%%;  ;%%;  ;%%;' .;%%;' .;%%;'  ;%%;'
+    `;%%;. `;%%;. `;%%;. ;%%;. ;%%; .;%%; .;%%;' .;%%;' ,;%%;'
+      `;%%;. `;%%;.`;%%;.`;%%; ;%%; ;%%;'.;%%;'.;%%;' ,;%%;'
+        `;%%;,,;%%;;,;%%;,;%%;,;%%;,;%%;,;%%;,;;%%;,,;%%;'
+          `;%%;;;;%;;;;;%;;;;%;;%%;;%;;;;%;;;;;%;;;;;%%'
+             ```;;%%%%%%;;;;;;;;;;;;;;;;;;%%%%%%;;'''
+                  ```;;%%%%;;;;;;;;;;;;%%%%;;'''
+                       ```;%%;;;;;;;;%%;'''
+                            ``;;;;;;''
+                              ;;;;;;
+                              ;;;;;;
+                            .,;;;;;;,.
+                       ,;%;;;;;;;;;;;;;;%;,
+                    .,;%%;;;;;;;;;;;;;;;%%%;,.
+              .,;;;%%%%;;;;;;;;;;;;;;;;;;;;%%%%;;;,.  

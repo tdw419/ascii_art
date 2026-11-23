@@ -1,0 +1,26 @@
+.------------------------.
+|          .oo.          |
+|         HHHHHb.        |
+|        /`HHHHHHb       |
+|        > `dHHHHH       |
+|       /  dHHHHHHb      |
+|       :  HHHHHHHH      |
+|      .-""FHHHHHHH      |
+|      |   JHHHHHHH      |
+|      J    FHHHHHHb     |
+|     + \   JHHHHHHH     |
+|   .'   \   FHHHHHH+_   |
+|   `. ;  \   \HHHHF "+  |
+|     `|  _>   \HHF+_  \ |
+|      F_+"   .'J   |  j |
+|     J+"   .': F   |  j |
+|   _+"  _+'  : +_  |  F |
+|  %" .-'       . =.F j  |
+| |  ;I          \  =./  |
+| |  (`-.......___+___L  |
+|  ```='"""""==_  "_.--' |
+|      |        `./   J  |
+|      |        +' .' |  |
+|      F       J      |  |
+|      F      JF      F  |
+|_____J_______F|_KroggF__|

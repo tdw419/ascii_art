@@ -1,0 +1,61 @@
+       ..       .=IIVRRXYt+,,++|=,,.,,.=VVi+|i;=+IXX,  .     .
+      .,,,,..|ItVRRRtI==::iYt,,    .     ... .:.  ,=i|:I;:.
+     .,;=RXX;,IMMRX|,.;.   . .                     ,,,,,=YVXXY|:.
+     .:||i+=XRRi=:, ,,.;,.,                              .,,...  ,.
+    .;++tiVIVtRRY,,     .,                                    , .
+    .;||tRXRRRX,:.
+   ..:tYYRRRRt:
+   ..|VVYiY=+:,.    .      . . .,.  :::;;,,..
+    .;|I;=..:tXX;:i: .+IYYYIi||iIitIIIii|||=;...                       ;
+    .=t=...:RRMMMRi|VYXRRRRRXRRRYVYYVtItiIi+;;;..                     .|;
+    :I+:.,:RMMMRt=YRRMRRRRRMRRRRRXVVYYtIIii++=,.                       .=.
+   ,:+|t;+MRRRX|YMMRMMRRMMRMRRRXRVVXVVtYYIIi||::                        .:.
+   ,+=.,=MMMRIVRMMMRMMRRRRRRRXXVXVVYVVttttt||++.                         ..
+  +t+:.+MMMMMRMMMMMMMRMRRXRXRXRXXXRXYtt|i|||=+,.                          .
+  ,,.,tRMMMMMMMMMMMMMMMRRXRRRRXVYVXYtIiYIiI+=: .
+  .: ,iMRMRRMRXRRMMRMRRRRXRRRRXRXXRVYYttt+;,.
+  .,.,|XRRRRRRRMMMMMRMRRMRRRRRRRRRRRXRYii=:.,. ..
+  .,. :VMRMMMMMRRXRRRMMRMXRRRRXRRRRXYY++==::,,... .
+ . ;. :YRMMRRRXtI++;|VRRMMMRRRRRVttt|;:=,:::,,,,.  .
+  .,. :XMXYt+:.    .,+++tXXXRRRt+..
+    , ;X;  :=YYti;:;,;=|IYVVVtIi:        ,|==,.
+   .;,Ii;;|iii+:,..:==;|YVXXXVY,        ==;,,:..
+    ::Y=|=,    ,  , ,,;+IYRRXY+      =. :
+    .=Xt=  ..;.|.++|||YVXVRXVt,    .+VVVViI. ;.                           .
+    .YRXVVYi|itVt|++||VYVVXVY+.    iYt|IIIi=:.
+  ..:VMRRMRXRXVVttYXXRRVXXVYi=.  ,;;=tVYYiiiii|;;,:,,;:         =
+   ,+MMMMMMRMRMMRMRVXVYYVXVti;  .,:,=||tttttii|i|=|;;...
+   ,=RMMMMMMMMMMMMRRYXYVXVVI+.    :,=iYYtY|IYittI|i+=..
+   ,|XRMRRRRMMMMMMMRVtVXVVIi=,     :i|iYVXXXYYIiI=+.,
+   .=IXRMRMMMMMMMMRYIXRRMVY=,       +VVYYVXVVYIII|=...
+  ..:tXXXRMMMMMMRVXXVVVVXt=:,   ,.   =YXVXXXVXYIt+:
+   .:;ttVVRRMMRRttVI=..i;;..          .|YVVtIII||:.
+  ..,;|tYtXRRXYttXXXXYiii,             ,iiVYII|+.,
+    :==IYXVXXVVVRXXYVYXRRYYiIt+:;,;,:;:;=++ii|;:,.
+  .,;++iItVVXXXXVYYtVVRRXYYYVti|=.,:.,: ...,;::; .  .
+ ..==i||tVYVVVVYYYtYVVXRXYVXVVi+=;=,:,,,    ,:;;:,...            .
+ .:;|+I;|YVIYViiiIVVVVtIYI||++;;;,.  .,.....  .: .               ,
+ .,;=+t||ItVYYI+:;;==,  ..,..   .        .,,,.,:.                :
+ .,;iii+;+iIVi++|tVII|, .;=t=::;=i;.     =|==:=.                 .
+  .,:||+;;=+YttVVVIYVRRRRRXXRRYi++:;... :+Yi+;,                  .
+  :;+iiIi=;||YXXXXXtVttiiI+i|:;:,; ,;,,;+Iii;,                   :
+i ,=+|i+|=::=itXVXXVVti+;=|::,,,,,;++||i==,:                     =
+MR ,=|||=:::;|tYVYXXVXVtYYII+=+++;+IYY|=,, .                     ;.
+RRR+.+||++;,:;+IYYVVXXXRXVXXVVItiIiItt+:                         ;;
+  .;=||+|=;.,.=iIYRXRXXRRRXXXVYtV|itt|;.                         ;=
+ .,,=+|+=:,:   .+IYYVVYVRXRRRXY|+;++=;.                          :+,
+  .,:+=;;;,;..  ,+=ItItYYYItVt|=;.,                              .+I:
+  ,;;==;=;:::.. .YYI+=+;==:==;,.                                  ,.      .
+  .,=;+==.,|     tYIi+++.                                                 .
+   .;=:;tRR=     iXtiii||;;.                                              ,
+   :|XRRRXX=      iYtt|Iiii=+;.
+RRRRRXVtYYYi.      :ItIYY|=i||;+=;:.
+tVXVtt+iYVVYi,       ,itYIiit||:;:,.
+itYVVttIYYtIII;         .+iVYYIi+=,,.., ,=:,                             ,=
+YVXVYtiItI+|iI|,                                                      ,=::+
+tttYYiIXYi|Iii|i|                                                ,+==+=+:,+
+XtIIiYXVti|itIItI|.                                           .+||=.,:::..|
+=:;ItVIIi|+iIIIi:                                          .+++|+|;=,:===|I
++iYVYYii|it|i|=,    . .                                 ,+==,:,=;;+;;:;=;;I
+=iIYttII|++iii|;  ..                                 :+;=+=:;,,:=;;=;;=;==i
++IiItttItiittYi;..  .                            :|||+++=i|++=:;;+++||_c_JE

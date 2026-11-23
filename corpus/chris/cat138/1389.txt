@@ -1,0 +1,46 @@
+Below: A modification of Douglas A. Wright's original.
+A beer guzzling Snoopy.
+              XXXX
+             X    XX
+            X  ***  X                XXXXX
+           X  *****  X            XXX     XX
+        XXXX ******* XXX      XXXX          XX
+      XX   X ******  XXXXXXXXX                XX XXX
+    XX      X ****  X                           X** X
+   X        XX    XX     X                      X***X
+  X         //XXXX       X                      XXXX
+ X         //   X                             XX
+X         //    X          XXXXXXXXXXXXXXXXXX/
+X     XXX//    X          X
+X    X   X     X         X              _-x
+X    X    X    X        X              x   !
+ X   X    X    X        X               !   XXX
+ X    X   X    X        X                 XXX! XX
+  X    XXX      X        X               X  X X XX
+  X             X         X              XX X  XX!X
+   X             X         XXXXXXXX\     XX  !X   !!
+    XX           XX              X     X    !  XX  !
+      XX            XXXX   XXXXXX/     X     X@XX    !
+       XXX             XX***         X     X  !   !  !
+           XXXXXXXXXXXX *   *       X     X    !  !!! !
+                        *---* X     X     X      !   _-
+                      *-* *   XXX X     X        !_-
+                       *- *       XXX   X
+                      *- *X          XXX
+                      *- *X  X          XXX
+                   *- *X    X            XX
+                     *- *XX    X             X
+                    *  *X* X    X             X
+                    *  *X * X    X             X
+                  *  * X**  X   XXXX         X
+                  *  * X**  XX     X          X
+                  *  ** X** X     XX          X
+                  *  **  X*  XXX   X         X
+                 *  **    XX   XXXX       XXX
+                *  * *      XXXX      X     X
+               *   * *          X     X     X
+ =======*******   * *           X     X      XXXXXXXX\
+        *         * *      /XXXXX      XXXXXXXX\      )
+   =====**********  *     X                     )  \  )
+     ====*         *     X               \  \   )XXXXX
+=========**********       XXXXXXXXXXXXXXXXXXXXXX 

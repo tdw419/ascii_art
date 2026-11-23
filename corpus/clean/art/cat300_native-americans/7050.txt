@@ -1,0 +1,44 @@
+                          .
+                         .,.
+                      .:::,::.
+                    .:::;,::::
+                  .:::::,:::::
+                 .:####,###:::
+                .#####,#####:
+               .#####,#####'
+               #####,#####'
+              ##:::,:::##'
+             #::::,:::::'
+            :::::,:::::'
+           .::::,:::::'
+           ::::,:::::'............
+         ..::::,...........................
+      ............................................
+    .....................................::......vv.
+   ...::...............................::::.....vvvvvv.
+  ..:::.............................::::......vvnnmmmnnv.
+ ..:::...........................:::......vvvvnnmmmmmmmnnv
+...::.........................::.......vvvvnnnmmmmmmmmmmnnvv
+...::..............................vvvvvnnnmmmmmmmmmmmmmmmnvv
+....:..........................vvvvvnnnnnmmmmmmmmmmmmmmmmmnnvv
+.............................vvvvvvv>>>>>>>>vvvvvvvvvvv>>>>>>v
+...........................vvvvvvv>>>>>vvvv%%%%vvvvvvvv%%%%>>
+......................:...vvvvvvvvvvvvvva@`    .@av;va@`   .@
+ ....................::..vvvvvvvvvvvvvvvvv%%%%%vvvvmm;v%%%%%vv
+ ...................::..vvvvvvvvvvvvvvvvvvvvvvvvvvvnnmm;%vvvvvv
+  .................::..vvnnnnnnnnnnvvvvvvnnnnnnnnvvvnnmm;%%vvvv
+  ................:...vvnnnnnnnnnnnnvv%%nnnnnnnvvvvvvnnmm;%%vvv
+   ..................vvnnnnnnnnnnnnvv%%vvvvvvvvvvvvvvvnnmm;%%v'
+   ..................vvnnnnnnnnnvvv%%%vvvvvvvv%;mmnnvvvnnmm;%'
+    ................vvnnnnnnnvvv%%%vvvvvvvvv%;mmmnnvvvvvnnmm'
+    ....:..........;vvnnvv%%%%%%%vvvvvvvvv;%%;mmmnnvvvvvnnmm
+    ....::.........;vvn%%%%%%%%vvvvvvvvv;%%vv%%;mmmmmmmmmmm'
+    .....::......:.%;vvv%%%%vvvvvvvvvv;%%vvnnmmnnvvvv%%vvv
+     ......::...::.%;;vvvvvvvvvvvvvv;%%vvnnnn)))))))))))v
+    ....:......::..%%;;vvvvvvvvvvvvv;%%%vvn))))))))))))v
+    ....::...::....%%;;;vvvvvvvvvvvvvv;%%%vvvnnmmmmmnnv'
+     ....::.......:.%%;;;vvvvvvvvvvvvvvvvvvvvvvvvvvvvv'
+      .....::....::.%%%%;;;;vvvnnnnnnnnnnvvvvvvvvvvv'
+      ..:.......::...%%%%%%%%%%%%%%%%%%%%%%%%;,..
+      ..::....::......%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;,..
+      ...::.........:..%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;,..

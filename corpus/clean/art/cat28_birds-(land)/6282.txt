@@ -1,0 +1,39 @@
+ ___________                                         ____________
+<cccccccc@@@\                                       /@@@ccccccccc>
+ >cccccccc@@@@\                                   /@@@cccccccccc<
+  <ccccccccc@@@@\                               /@@@@cccccccccc>
+   >ccccccccc@@@@@\                           /@@@@ccccccccccc<
+    <cccccccccc@@@@@\                       /@@@@@ccccccccccc>
+     >ccccccccccc@@@@@\                   /@@@@@@ccccccccccc<
+     <ccccccccccccc@@@@|       ________  |@@@@@@cccccccccccc>
+      >cccccccccc@@@@@|       /;;;;;;;;\  |@@@@@ccccccccccc<
+       <cccccccc@@@@@|       /.___ ;;;;;\  |@@@@@cccccccccc>
+       >ccccccc@@@@@|  _____( <0) ;;;;;;;\   |@@@@cccccccccc<
+      <cccccccc@@@@|  /######  ~ ;;;;;;;;;)    |@@@@ccccccccc>
+     >ccccccccc@@@|   V#######;;;;;;;;;;;;|      |@@@ccccccccc<
+    <ccccccccc@@@@            );;;;;;;;;;;;;       |@@@@ccccccc>
+   >ccccccccc@@@|            |;;;;;;;;;;;;;;.        |@@@@cccccc<
+  <cccccccccc@@|             ";;;;;;;;;;;;;;;          |@@@cccccc>
+  >cccccccccc@@@\           |v^v^v^v^v^v^v^v|           /@@cccccc<
+  <cccccccccc@@@/_          /!!!!!!!!!!!!!!!\          _\@@@ccccc>
+   >ccccccccc@@@@@\ _______/!!!!!!!!!!!!!!!!!\_______ /@@@@ccccc<
+   <ccccccccccc@@@@V!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!V@@@@cccccc>
+    >cccccccccccc@@@@@@@@@\!!!!!!!!!!!!!!!!!/@@@@@@@@cccccccccc<
+     <cccccccccccccc@@@@@@@|!!!!!!!!!!!!!!!!@@@@@@cccccccccccc>
+      >ccccccccccccccc@@@@|!!!!!!!!!!!!!!!!!|@@@@cccccccccccc<
+       <ccccccccccccccc@@@@|!!!!!!!!!!!!!!!|@@@@cccccccccccc>
+        >cccccccccccccc@@@|!!!!!!!!!!!!!!!!!|@@cccccccccccc<
+         <cccccccccccccc@@@|!!!!!!!!!!!!!!!|@@@cccccccccccc>
+           >ccccccccccccc@@@\!!!!!!!!!!!!!/@@@cccccccccccc<
+             <cccccccccccc|\  \!!!!!!!!!/  /|cccccccccccc>
+              >V V V V V V!!\   \!!!!!/   /!!V V V V V V<
+                ^ ^ ^ ^\^!!!!\  /V~V~V\  /!!!!^/^ ^ ^ ^
+                        \!!!!/ /^ ^ ^ ^\ \!!!!/
+                         \^^/ /V V V V V\ \^^/
+                          || /^ ^ ^ ^ ^ ^\ ::
+                          ||/V V V V V V V\::
+                          ||^ ^ ^ ^ ^ ^ ^ ^::
+                 ; ;     //:\\            //:\\
+              ; ; ;\; ; :: ::::     |\   :: ::::
+               ;----====V_=/\=V=='  |:>==V==/\=V====>
+                 ';/ ;     ~~       :/      ~~

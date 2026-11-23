@@ -1,0 +1,33 @@
+Mr Hat
+       $$$$$$$$$$$$$$
+      $XXXXXXXXXXXXXX$
+      $XXXXXXXXXXXXXX$
+      $XXXXXXXXXXXXXX$
+      $              $
+      $              $
+      $              $
+      $XXXXXXXXXXXXXX$
+      $XXXXXXXXXXXXXX$
+      $XXXXXXXXXXXXXX$
+      $              $
+      $              $
+      $              $
+      $XXXXXXXXXXXXXX$
+      $XXX++++X+++XXX$
+      $XX+    =   +XX$
+      $ +   = ==   + $
+     $$ +  =# =#=  + $$
+  $$$##M+     =    +#M#$$$
+ $#####M+    =+    +M#####$
+$#MMMM#MM++++MM++++MM#####M$
+$#MMMM##################MMM$
+ $$$$$MM##########MMMH$$$$$
+      X$....$H$H$....X
+      XXX..X%.../X/.XX
+      XXXHX...X...XXXX
+      X$XHXXXXXXXXXXXX
+      XXXXXXXXXXHXXXX
+       XXXXXXHHXHXXXX
+        XXXXXXXXXX$X
+         XXXXXXXXXX
+          XXXXXXXX

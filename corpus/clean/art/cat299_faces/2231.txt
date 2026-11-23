@@ -1,0 +1,66 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM1... . .. HH..99MMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. .  ...   .....    .    9MMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  1 ..   11... -   .1. .     ...199MMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMM.....11 .. 11 //  ......111.  .. *.MMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM ...@HS1  ..111 / ..         1..   ..11HMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMM...1HHY 1.   1. ..@@..     --1.1.1M..  11HMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMM..1HH     6661*1MMMHH111****.    ...    ..1MMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMM.111.  .1119HHHHMMMMMH11..   -.   -.....     MMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMM...11 ..11 ...11HHMMMMMMMHH..  ...  11N. -.   YMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMM.11  .1..  1.--9999919111HHH..1  ..1@@  11..1   1MMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMM1... .   11. . .11111HHH.MHMH. 9*  1 9..  11.   .1MMMMMMMMMMMM
+MMMMMMMMMMMMMMMM11... .. 1-       11.  111...MM   91  1   11.  1.  *1MMMMMMMMMMM
+MMMMMMMMMMMMMM1111. .. .1         1-    .. . .H1   11  11A..  1.    MMMMMMMMMMMM
+MMMMMMMMMMMMM1111..11 /          .1     .    .11.   ..  C.1..  .    *.1MMMMMMMMM
+MMMMMMMMMM1 1111.1  .-**.        .-     ..    ...    .   .. .   .    -*HMMMMMMMM
+MMMMMMMMMM11HH11  ./    11.       1.     1     . ..  .      .   .1    .Y1MMMMMMM
+MMMMMMMMMMMM 11...1..-..  1.      1.     1    . ...  .      .   .1     Y1MMMMMMM
+MMMMMMMMMH1111000  H/*H6*. 1.     .1     ..     .1 1 .     ..   ..     11HHMMMMM
+MMMMMMMMH...HM.    Y.1MHMS1 1      1.     1.    1 @      #..   .1   ..  11MMMMMM
+MMMMMMM/../HM.       2.-.-111      .1     .1.     1      .    . .    . .11HMMMMM
+MMMMMM/..*HM/.          - 1/    .../111.--  .    H      .    .1. .    .1111MMMMM
+MMMMM/ ..MMM..          ..     ......    -**     H   . 1        .1.     .1111HMM
+MMMMH/11HMM1..         .         -***M*.   -S   1.   .  1     . .       911MMMMM
+MM.MH....1M..        ..           1 /@WM@.  M ..1. ..  .       .      .. Y.HMMMM
+MM.M11 ..M1..       /*W     .      -*YY.MM    ..  ..   1       ..     11. E999MM
+MM1M11...M..        YYY..*W  .        --11-11. . .1    .   ..   ....  111.*MMMMM
+MM1111..7...     ...     9..               11 **..1.   1.  ....     .. -Y-/MMMMM
+M11111.MM..   .1.11111.    -               11.*..11.   ..    ..... ...    .MMMMM
+MM1111HM1..   -1-*. **.1.                  1. 1..1..  . .       ..   ..   1Y1HMM
+MMM111HH1..    11.-.   *1.                 1 1HH....   . .       ..   11....1HMM
+MMMMMMMM@1.     *11.--. .1.                111MM.  ..    #.1 .... .  1111.11MMMM
+MMMMMMMMH1..     --111***-1           ....1111HH1.   -.  .111....  ..    .1MMMMM
+MMMMMMMMH11.                         ....111HHH111     -.  1. .       111.1MMMMM
+MMMMMMMM.M11.                      ..    1 HZ. /111...   #.. ..C.   . 11..1MMMMM
+MMMMMMMM.M111.                    ...   HH.. ./*......1..  .       .... 1MMMMMMM
+MMMMMMMMYM11111..                ......HHMMMMM11  ..  11.    .     ...11MMMMMMMM
+MMMMMMM.M111111H111*.... . .    ...1111HMMMMHH11   .. 1 .   ..     ..1HHMMMMMMMM
+MMMM./1HH....11111--111111****11111- /MMHHHH1111..... 1 .  /1        11HMMMMMMMM
+M.11...M1..............-11--1--H1-  /MMHHH1111.... . 1  .. HH  C .    11HHMMMMMM
+M.....HH.......  . . ....11111-    .MHH1111M11..1.  ..  .. HH    .      1HHMMMMM
+M     #         M .  . ....        /HMM111.11111. .  .    ...1    ....    11HMMM
+M....11..........                 /1111..1..11.11 . ..    .1     .11. ....11MMMM
+M...11...........                 1.1.1 .1..1.1...  1.1   1      ...   ..111MMMM
+M...11.....  111...              ...1... .....HH1HH8.1  ./     .    .    .YHMMMM
+M...1..    1  ..1...          1 .....11.  . ..11H9 ... .           ..     HHMMMM
+M.....      1   1111.1..      1  ./...1H.  ..  .-  .  .            1..     HMMMM
+M          .     11..11...  1   .. . 1H1   ...   ..    ....    .  1...   1  HHMM
+M           .       ....       ./. .11H1.  .   .1.    ...1.   .. .11      1 HMMM
+M                   .         . . ...11.   . ..1  .  ..11..   ../.11        MMMM
+M1..               .          /.  ..      U ..   .  .. 11.   /...1.1      11MMMM
+M 1..             .          /. .        1 ..   .   .111.    /.1.11.    ...11MMM
+M   ..... .                 .. ..       11 .   .  ...HH1   . 1...1.   .. ..  1MM
+M       .. . .              1....      11.. ... ....1111   . 11      ..  .. .1MM
+M        .. .  .  .       ..... ..     11...    ..1.MM1  #.. 11     .. ..   .MMM
+M          . .  . .        / .. ..     HH..     111.M.11  ..  1   .. ......  1MM
+M            ... . .       / .  ..     HH..   ..1.1M...1  .. . 1  ...  ....  -YM
+M            . . .         1  . .      1H... ...HHHM 1 11 .. ..11   ..  ..  ..@M
+M . .          ....         1  . ...1 .11.111...HMM..1..11 .. .  1  ...   ..11MM
+M. . .          ....         .     1.. 111.1....MMM.....11  . ..  1 .... ...HHMM
+M . .           .....         1   1 ..11111M1.11.1111.11 11  .  .. . .. ....111M
+M             .  .1.           ..1.1..11HMMM1.11.1.11...111     ..  .     ..11HM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMM            -= WRITE IN A N.C.R. C-500 COMPUTER AT 1970 =-              MMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM

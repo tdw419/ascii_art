@@ -1,0 +1,66 @@
+                      .i::::i,
+                     ::,,,,,,i                                        ,
+                   .i:,,,,,..i,                                    .:i:
+                   i,,,,,,..,;                                   ,i:,,,
+                 ,i,,,,,,..,r                                  :i:,,,,,
+                ::,,,,,...i;                                 ii,,,,,,,,
+              .i:,,,,,..,;:                               ,i:,,,,,,,,,,
+             ::,,,,,,..:r                               :i:,,,,,,,,,,..
+            i:,,,,,...ii                  ,,.        .ii,,,,,,,,,,,...:
+          ,:,,,,,,,.,i                 :ii:::ii     i:,,,,,,,,,,,...ir.
+         ::,,,,,,,,.,.,iiii.        ,i::,,,,,,,i          ,,,,,...ir,
+        i:,,,,,,,,,..,,,,,,i,    .ii:,,,,,,,,,.i.  .i     ,,,...:r:   .
+      .i,,,,,,,,,,                                MMMMMMM ,,..,;i :i:
+ :,,,,,,,,,,  .MMMMMMMMMMMMMMMB8MMMMMMMMMMMMMMMSMMMM   MM ...ii   ::,,,
+i,,,,,,,,,,, 2MW      M;     .MM      MM   8. MMS      MM .:;  .i:,,,,,
+i..,,,,...., WM       M       7X       M       M   ,   MM i. .:,,,,,,,,
+;,......,,., BM   M   Mi  MX  BMMMMB   M   M   M   M   MM  .,,,,,,,,,,,
+ r7;i;;i,.., BM   M   Mi      MM       M   M   M   M   MM .,,,,,,,.....
+       ...,, BM   M   Mi  MZ  MM  WM   M   M   M   M   MM ,,,,,....,,,.
+     :,,,,,, BM       M   W,  MM       M   M   M       MM ,,,....::,...
+   ::,,,,,,, BMMMMM.  MMMMM   XM0MMMMMMMMMMMMMMMMMMMMMMMM      .:,...,,
+ .i,,,,,,,,, BM       MMMMM,     MMMMZMMMMMMMZMMMMMMMMMMMMMZX7Z  ..,,,,
+,i,,,,,,,,,, MMMMMMMMM   MMMMM      ;M:     XM       M   aMMMMM  ,,,,,,
+i,,,,,,,,,,,       MM        M       M   ,   M   X7; S       ,M  ,,,,,,
+.i.,,,,,,,,,,.     MMM   MMMBM   M   M   M   M       M   MMMZMM  ,,,,,,
+:.,,,,,,....,,,,,,  MM   M   M   M   M       M   r,, M   M   ZM  ,,,,,,
+,i:,.,,,........,,. MM   M   M   M   M   MMW2M   MMBMM   M,  WM  ,,,,,,
+ii:,,...,ir;i:.,,.  MM       M   M   M       M   M8  M       8M  ,,,,,,
+,,,,.....:r7;.      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX MMMMMMMMMM .,,,...
+,...,i7r:i:,,,,,. MM.  .,,@M   M   MS  iMMMMM. .   aM  X2222r   .,...,,
+,r;;rr. ,:....... MB       M   M   M        M       MW        .,,,.,,,.
+  .     .r,...,.. MMWMMM   M   M   MB  .MWBMM   M   MM .,,,,,,,,,,.....
+         .;;;:... MM       M   M   MM   M   M   M B iM  ,,,,,,,,,,,,,,,
+            ...,. MM  :M   M   M   MM   M   M   M 8 aMa      ..,,,,,,,,
+         ,i:,,,,. MM       M       Ma       M    B     Sr2ar.  ,,,,,,,,
+       ,i:,,,,,,. @MMMB.;MMMMMMMMMMMMMMMMMMMMM;;.   7r ,M   MX ,,,,,,,,
+     .i:,,,,,,,,.    0  WMS:,;7XSr   .rSW    8;Si  ;MM S r  M8 ,,,,,,,,
+    ,:,,,,,,,,,,,.  2  @M7    :   7;   i  MMr XX B S 7   M  M2 ,,,,,,,,
+   .i,,,,,,,..  .  B  WMa 7 ZW .: MM  Z ;M.     i2   0 aMW  M.        .
+   ,:.,,,,,, .7.  8  @  r   Z  . 0  aZr    ZM  .MM7MMM0MM2 8Mr7SSS2a2;
+   .;....,,, W rMZ  0Z B. MM0  aX  aMM.8WMMMW MMM  0S                 Z
+    :ri,.,,, a. M  2M  B         XMM2   MMX           :0M. MMMMMMMMMM
+      ...,,,  W . .M0  Mr.;MMMMMMM@  ;;       ;MMMMMMMMMM  MM        0M
+     :,,,,,,. M  ,MM ZMM72MM2          i@MMMMMMMS       B  MM .,,,,.  i
+     ;,....,.  aMMM              aMMMMMMMS          .,. M  Mr ,,,,,,.
+     ,7ri,....       X:    SMMMMMM0.        .,,,,,,,,, ,B ,M  ,,,,,,,,,
+         i,...ir: .,  8MMMMM0         .,,,,,,,,,,,,,,. Si 2M  ,,,,,,,,,
+         .r77r:   ,:.          .,,,,,,,,,,,,,,,,,,,,,..W  MM .,,,,,,,,,
+                  .,...  ..,,,,,,,,,,,,,,,,,,,,,,,,,,. W :MW ,,,,,,,,,,
+                :i:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  WMM  ,,,,,,,,,,
+              :i:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.     .,,,,,,,,,,
+            ,i:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+          :i:,,,,,,,,,,.....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+        ,::,,,,,,,,,,...:i:..,,,,,,,,,,,,...,,,,,,,,,,,,,,,,,,,,,,,,,,,
+      :i:,,,,,,,,,,...iri i,......,,......,.,,,,,,,,,,,,,,,,,,,,,,,,,,,
+     ,i,,,,,,,,,,....i7:   ;XX;;,....,ir7;i..,,,,,,,,......,,,,,,,,,,,,
+   .i:,,,,,,,,,...,;r,           r7rrr;:  :,.,,,,,,...i;i,.,,,,,,,,,,,,
+  ,i,,,,,,,,,...,;r.                       .:.,,,....:r .:.,,,,,,,.....
+  i,,,,,,,,...,r;                         ,:,.,....:;  :,..,,,,,....:i,
+  i,........i7;                        .:i:,,...,;r..::,,,,,,....irr:,;
+  ,r:...,irr,                        ,i:,,,...:r;   :,,,,,,....irr:
+    i777r,                         :i:,,....iri    i:.......,rr:
+                                 ii:,,...,;r.      .7;:...i7i
+                                ::,....:r;           .irXr,
+                                i,...iri
+                                 rX7r.

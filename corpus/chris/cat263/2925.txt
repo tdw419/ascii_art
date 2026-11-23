@@ -1,0 +1,16 @@
+       =======
+        =====  symbolic antenna
+         ===
+          =
+          |
+          |          micro henry
+          |          coil w/tuning lug
+          |    .----.     (not shown)
+          |   (.-') |
+          |   (.-') |
+          |   (.-') |      pico farad cap
+          |   (.-'  |    ___  (trimmable)
+          |   |     |   |___|
+PC   ->  .----'-----'---'---'
+Board    `-------------------
+         ground plane (foil)

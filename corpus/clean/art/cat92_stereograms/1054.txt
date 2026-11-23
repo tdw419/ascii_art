@@ -1,0 +1,16 @@
+Subject: A genuine ASCII stereogram!
+Here's an ASCII single image random dot stereogram for your enjoyment.
+To get the 3d effect, you need to diverge (unfocus) your eyes
+such that two adjacent letters in the same row come together.
+To help you focus, try to make the two capital O's at the top
+look like three.  Once you've done that, the rest of the image
+should jump out of the screen at you!
+
+                              O    O
+n   n   n   n   n   n   n   n   n   n   n   n   n   n   n   n   n
+f    f    f    f    f    f    f    f    f    f    f    f    f    f
+e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e
+a    a    a    a    a    a    a    a    a    a    a    a    a    a
+a   a   a   a   a   a   a   a   a   a   a   a   a   a   a   a   a
+r    r    r    r    r    r    r    r    r    r    r    r    r    r
+r   r   r   r   r   r   r   r   r   r   r   r   r   r   r   r   r

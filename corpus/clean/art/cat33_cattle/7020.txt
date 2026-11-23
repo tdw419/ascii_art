@@ -1,0 +1,20 @@
+          /A                         A\
+         |AA\                       /AA|
+         |AAAA\                   /AAAA|
+         |AAAAAA\ /***********\ /AAAAAA|
+          \AAAAAA|**^***^**|***|AAAAAA/
+    /ssssssssssss|*/\**|s\*/\**|ssssssssssss\
+  ssss::ssssssssssVss\*|ssVs|*/ssssssssss::ssss
+ ssss::ssssssssssssssssVsssssVssssssssssss::ssss
+ssss::sssss  /ss\\\\\sssssss/////sss\ sssss::ssss
+sss:sssss    ssss.....ssssss.....ssss   sssss:sss
+ ss:sss      sss.......ssss.......sss     sss:ss
+  sss        sss.......ssss.......sss       sss
+   s      sss...ssssssssssssssssss...sss     s
+       ssss...ssssssssssssssssssssss...ssss
+      sss..sssssss...ssssssss...sssssss..sss
+      sss..ssssssss..ssssssss..ssssssss..sss
+       ssss.........ssssssssss.........ssss
+         \sssssssss//========\\sssssssss/
+             \sss//ssssssssssss\\sss/               MOOOOOOO!
+                  \ ssssssssss / 
